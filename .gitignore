@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+venv/
+.idea/*
+app/src/utils/database.py
+env.cfg
+__pycache__
